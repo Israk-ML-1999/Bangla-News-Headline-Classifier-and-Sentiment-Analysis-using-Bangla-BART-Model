@@ -29,8 +29,13 @@ Utilizes Bangla BART, a transformer-based model optimized for sequence classific
 
 ## Frameworks Used:
 PyTorch
+
 Hugging Face 
+
 Transformers 
+
 Scikit-learn 
+
 Pandas 
+
 Matplotlib and Seaborn for visualization
